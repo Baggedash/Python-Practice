@@ -1,0 +1,9 @@
+#Just a simple python exercise with variable declaration, interatcion, type setting etc.
+my_age = 34
+half_my_age = my_age / 2
+half_my_age = int(half_my_age)
+greeting = "How's your day been"
+name = " Andrea"
+greeting_with_name = greeting + name + "?"
+print(greeting_with_name)
+print("This is how old I am:", half_my_age)
